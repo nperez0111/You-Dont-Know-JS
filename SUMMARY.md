@@ -16,3 +16,7 @@
   * [Chapter 6](es6 & beyond/ch6.md)
   * [Chapter 7](es6 & beyond/ch7.md)
   * [Chapter 8](es6 & beyond/ch8.md)
+  *
+  ```JavaScript
+  function x(num){ var arr=Array.apply(null, Array(num)).map(function () {}); return arr.map(function(cur,i){return "[Chapter "+(i+1)+"](es6 & beyond/ch"+(i+1)+".md)";}); }
+  ```
