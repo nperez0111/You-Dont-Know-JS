@@ -41,4 +41,4 @@
   * [Fore Word](up & going/foreword.md)
   * [Chapter 1](up & going/ch1.md)
   * [Chapter 2](up & going/ch2.md)
-  * [Chapter 3](up & going/ch3.md 
+  * [Chapter 3](up & going/ch3.md)
