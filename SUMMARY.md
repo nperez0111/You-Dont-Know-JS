@@ -33,3 +33,7 @@
   * [Chapter 1](scope & closures/ch1.md)
   * [Chapter 2](scope & closures/ch2.md)
   * [Chapter 3](scope & closures/ch3.md)
+* [Up & Going](up & going/README.md)
+  * [Chapter 1](up & going/ch1.md)
+  * [Chapter 2](up & going/ch2.md)
+  * [Chapter 3](up & going/ch3.md 
