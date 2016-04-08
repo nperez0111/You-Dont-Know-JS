@@ -16,7 +16,9 @@
   * [Chapter 6](es6 & beyond/ch6.md)
   * [Chapter 7](es6 & beyond/ch7.md)
   * [Chapter 8](es6 & beyond/ch8.md)
-  *
-  ```JavaScript
-  function x(num){ var arr=Array.apply(null, Array(num)).map(function () {}); return arr.map(function(cur,i){return "[Chapter "+(i+1)+"](es6 & beyond/ch"+(i+1)+".md)";}); }
-  ```
+* [Types & Grammar](types & grammar/README.md)
+  * [Chapter 1](types & grammar/ch1.md)
+  * [Chapter 2](types & grammar/ch2.md)
+  * [Chapter 3](types & grammar/ch3.md)
+  * [Chapter 4](types & grammar/ch4.md)
+  * [Chapter 5](types & grammar/ch5.md)
