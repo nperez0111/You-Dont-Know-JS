@@ -1,6 +1,7 @@
 # Summary
 
 * [Async & Performance](async & performance/README.md)
+  * [Fore Word](async & performance/foreword.md)
   * [Chapter 1](async & performance/ch1.md)
   * [Chapter 2](async & performance/ch2.md)
   * [Chapter 3](async & performance/ch3.md)
@@ -8,6 +9,7 @@
   * [Chapter 5](async & performance/ch5.md)
   * [Chapter 6](async & performance/ch6.md)
 * [ES6 & Beyond](es6 & beyond/README.md)
+  * [Fore Word](es6 & beyond/foreword.md)
   * [Chapter 1](es6 & beyond/ch1.md)
   * [Chapter 2](es6 & beyond/ch2.md)
   * [Chapter 3](es6 & beyond/ch3.md)
@@ -17,12 +19,14 @@
   * [Chapter 7](es6 & beyond/ch7.md)
   * [Chapter 8](es6 & beyond/ch8.md)
 * [Types & Grammar](types & grammar/README.md)
+  * [Fore Word](types & grammar/foreword.md)
   * [Chapter 1](types & grammar/ch1.md)
   * [Chapter 2](types & grammar/ch2.md)
   * [Chapter 3](types & grammar/ch3.md)
   * [Chapter 4](types & grammar/ch4.md)
   * [Chapter 5](types & grammar/ch5.md)
 * [This & Object Prototypes](this & object prototypes/README.md)
+  * [Fore Word](this & object prototypes/foreword.md)
   * [Chapter 1](this & object prototypes/ch1.md)
   * [Chapter 2](this & object prototypes/ch2.md)
   * [Chapter 3](this & object prototypes/ch3.md)
@@ -34,6 +38,7 @@
   * [Chapter 2](scope & closures/ch2.md)
   * [Chapter 3](scope & closures/ch3.md)
 * [Up & Going](up & going/README.md)
+  * [Fore Word](up & going/foreword.md)
   * [Chapter 1](up & going/ch1.md)
   * [Chapter 2](up & going/ch2.md)
   * [Chapter 3](up & going/ch3.md 
